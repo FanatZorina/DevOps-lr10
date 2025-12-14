@@ -23,6 +23,6 @@
 
 ## Ставим Kustomize. Немного меняем структуру, создаём папки под разные версии, создаём в них свои кастомизации, создаём патчи в них. Применяем манифесты и проверяем
 <img width="867" height="517" alt="image" src="https://github.com/user-attachments/assets/b84069ae-a6c4-4692-84e3-ab461f0c673b" />
-
+<img width="742" height="199" alt="image" src="https://github.com/user-attachments/assets/994ef897-a87f-4b7b-be83-61e8095e54f8" />
 <img width="974" height="375" alt="image" src="https://github.com/user-attachments/assets/eb3b37bd-7008-4c91-8811-bbb8d7b70670" />
 
