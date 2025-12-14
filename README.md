@@ -1,4 +1,4 @@
-<img width="974" height="268" alt="image" src="https://github.com/user-attachments/assets/a9784fb3-51af-4c78-b02a-6dbb0a3c53a7" /># ФИТ-2024 НМ. Кулаков Андрей. DevOps. ЛР10
+# ФИТ-2024 НМ. Кулаков Андрей. DevOps. ЛР10
 ## Чистим старые ресурсы из кластера
 <img width="974" height="209" alt="image" src="https://github.com/user-attachments/assets/27aaf980-e4b7-4b23-947c-72896f8bf0f9" />
 
@@ -19,4 +19,10 @@
 ## Добавляем values к чарту, апгрейлим релиз переопределяя порт
 <img width="974" height="326" alt="image" src="https://github.com/user-attachments/assets/22ebe6c6-da56-4710-8ce8-66f6c562d3b6" />
 <img width="777" height="598" alt="image" src="https://github.com/user-attachments/assets/037e5bca-7f49-419f-b06a-73e143cad415" />
-![Uploading image.png…]()
+<img width="777" height="598" alt="image" src="https://github.com/user-attachments/assets/582f986b-a2c8-4746-aab0-7eb2630cc657" />
+
+## Ставим Kustomize. Немного меняем структуру, создаём папки под разные версии, создаём в них свои кастомизации, создаём патчи в них. Применяем манифесты и проверяем
+<img width="867" height="517" alt="image" src="https://github.com/user-attachments/assets/b84069ae-a6c4-4692-84e3-ab461f0c673b" />
+
+<img width="974" height="375" alt="image" src="https://github.com/user-attachments/assets/eb3b37bd-7008-4c91-8811-bbb8d7b70670" />
+
